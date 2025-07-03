@@ -1,0 +1,11 @@
+- adicionar arvores
+- adicionar cerca
+- adicionar cogumelos
+- adicionar luz lua
+
+- animar camera
+- animar caixao
+- criar morcego
+- animar morcego
+
+- adicionar som
