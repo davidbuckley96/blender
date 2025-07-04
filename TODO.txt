@@ -1,4 +1,4 @@
-- adicionar arvores
+- DONE adicionar arvores
 - adicionar cerca
 - adicionar cogumelos
 - adicionar luz lua
